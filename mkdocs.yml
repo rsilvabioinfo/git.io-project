@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: CompChemBio Lab tutorials 
+pages:
+    - Introduction: index.md
+    - Quick start: quickstart.md
+theme:
+    name: material
