@@ -2,5 +2,6 @@ site_name: CompChemBio Lab tutorials
 pages:
     - Introduction: index.md
     - Quick start: quickstart.md
+    - ssh configuration: ssh.md
 theme:
     name: material
